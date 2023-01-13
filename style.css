@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    background-color: orange;
+    text-align:center;
+}
+
+canvas{
+    border:dotted 15px white;
+    border-radius:10px;
+}
